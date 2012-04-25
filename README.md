@@ -3,4 +3,4 @@
 
 ## Calendar.app
 
-![Screenshot](http://www.nathancahill.com/calendar_screenshot.png)
+![Screenshot](https://github.com/nathancahill/applescripts/raw/master/Calendar/calendar_screenshot.png)
